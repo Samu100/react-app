@@ -1,4 +1,4 @@
-# Welcome the Todo app 👋
+# Welcome the TODO app 👋
 
 - This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 - The purpose of this project was to follow a react tutorial (https://www.youtube.com/watch?v=G1XiiXTQHSE) to get a fundamental understanding of basic mobile app principles in react native.
